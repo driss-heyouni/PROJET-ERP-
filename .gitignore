@@ -1,0 +1,12 @@
+# Ignore large folders and sensitive files
+node_modules/
+vendor/
+.env
+dist/
+tmp/
+.vscode/
+.idea/
+.gemini/
+*.sqlite
+composer.phar
+package-lock.json
